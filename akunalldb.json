@@ -28,6 +28,7 @@
     "id": 6,
     "username": "Zan",
     "password": "i",
+    "role": "developer",
     "createdAt": "2025-10-15T12:15:41.668Z"
   }
 ]
