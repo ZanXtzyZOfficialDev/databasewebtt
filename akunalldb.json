@@ -13,5 +13,13 @@
     "password": "asisdev",
     "role": "Assisten Developer",
     "createdAt": "2025-10-15T12:15:41.668Z"
+  },
+  {
+    "id": 3,
+    "username": "ZanKw",
+    "password": "1",
+    "role": "user",
+    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
+    "createdAt": "2025-10-16T09:34:47.073Z"
   }
 ]
