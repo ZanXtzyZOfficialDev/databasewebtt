@@ -1,42 +1,17 @@
 [
   {
     "id": 1,
-    "username": "zaxdevweb",
-    "password": "zankece"
+    "username": "ZanXtzyZOfficialDev",
+    "password": "ZanDevKece",
+    "role": "Developer Website",
+    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
+    "createdAt": "2025-10-16T08:10:42.326Z"
   },
   {
     "id": 2,
-    "username": "ZanAcak2",
-    "password": "acakpw2"
-  },
-  {
-    "id": 3,
-    "username": "ZanAcak3",
-    "password": "zan3"
-  },
-  {
-    "id": 4,
-    "username": "Tes",
-    "password": "tes"
-  },
-  {
-    "id": 5,
-    "username": "NekopoiApkKesukaaanDev",
-    "password": "NekoAhAh"
-  },
-  {
-    "id": 6,
     "username": "Zan",
     "password": "i",
-    "role": "developer",
+    "role": "userdev",
     "createdAt": "2025-10-15T12:15:41.668Z"
-  },
-  {
-    "id": 7,
-    "username": "ZanXtzyZOfficialDev",
-    "password": "ZanDevKece",
-    "role": "user",
-    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
-    "createdAt": "2025-10-16T08:10:42.326Z"
   }
 ]
