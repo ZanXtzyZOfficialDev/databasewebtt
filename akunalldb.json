@@ -37,5 +37,13 @@
     "role": "user",
     "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
     "createdAt": "2025-10-16T13:30:13.544Z"
+  },
+  {
+    "id": 6,
+    "username": "GweHanzx12",
+    "password": "Bijizakar 1212",
+    "role": "user",
+    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
+    "createdAt": "2025-10-16T13:32:04.233Z"
   }
 ]
