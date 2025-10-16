@@ -9,9 +9,9 @@
   },
   {
     "id": 2,
-    "username": "Zan",
-    "password": "i",
-    "role": "userdev",
+    "username": "Fendy",
+    "password": "asisdev",
+    "role": "Assisten Developer",
     "createdAt": "2025-10-15T12:15:41.668Z"
   }
 ]
