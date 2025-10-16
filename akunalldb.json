@@ -29,5 +29,13 @@
     "role": "user",
     "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
     "createdAt": "2025-10-16T13:15:50.067Z"
+  },
+  {
+    "id": 5,
+    "username": "GweHanzx",
+    "password": "kontol123",
+    "role": "user",
+    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
+    "createdAt": "2025-10-16T13:30:13.544Z"
   }
 ]
