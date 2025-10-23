@@ -53,5 +53,13 @@
     "role": "user",
     "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
     "createdAt": "2025-10-22T13:11:24.839Z"
+  },
+  {
+    "id": 8,
+    "username": "ZanXtzyZOfficialDev ",
+    "password": "ZanDevKece",
+    "role": "user",
+    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
+    "createdAt": "2025-10-23T13:55:54.196Z"
   }
 ]
