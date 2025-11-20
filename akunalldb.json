@@ -69,5 +69,13 @@
     "role": "user",
     "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
     "createdAt": "2025-11-06T07:04:52.026Z"
+  },
+  {
+    "id": 10,
+    "username": "anjy",
+    "password": "1",
+    "role": "user",
+    "avatar": "linear-gradient(135deg, #00f8ff 0%, #0066ff 100%)",
+    "createdAt": "2025-11-20T06:41:33.500Z"
   }
 ]
